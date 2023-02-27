@@ -8,7 +8,7 @@ Visit our website at [keepinghistory.org](https://keepinghistory.org)
 
 ### Live
 
-- [9/11 Realtime](https://github.com/robbiebyrd/rt911) - A realtime visualization of the events of 9/11 (transferring from github.com/robbiebyrd).
+- [9/11 Realtime](https://github.com/robbiebyrd/rt911) - A realtime visualization of the events of 9/11.
 
 ### In Progress
 
